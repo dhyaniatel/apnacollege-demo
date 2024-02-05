@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository.
 <br>
-author = Dhyani patel
+author = Dhyani(apnacollege)
